@@ -31,4 +31,7 @@
         <scope>test</scope>
     </dependency>
 </dependencies>
+<properties>
+  <sonar.organization>rakesh8086</sonar.organization>
+</properties>
 </project>
