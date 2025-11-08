@@ -1,0 +1,8 @@
+2025-11-07 14:44:00 INFO  LoggingTest - Info Message — Normal flow information
+2025-11-07 14:44:00 WARN  LoggingTest - Warning Message — Something might be off
+2025-11-07 14:44:00 ERROR LoggingTest - Error Message — Something failed
+2025-11-07 14:44:00 FATAL LoggingTest - Fatal Message — Critical system failure
+2025-11-07 14:46:37 INFO  LoggingTest - Info Message — Normal flow information
+2025-11-07 14:46:37 WARN  LoggingTest - Warning Message — Something might be off
+2025-11-07 14:46:37 ERROR LoggingTest - Error Message — Something failed
+2025-11-07 14:46:37 FATAL LoggingTest - Fatal Message — Critical system failure
